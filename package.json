@@ -1,0 +1,22 @@
+{
+    "name": "server-socket-inmobiliaria",
+    "version": "1.1.2",
+    "description": "Server Socket NodeJS, IO, SocketIO",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "server",
+        "nodejs",
+        "socket",
+        "socket.io"
+    ],
+    "author": "Hember Colmenares",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.18.0",
+        "express": "^4.13.4",
+        "socket.io": "^1.4.6"
+    }
+}
